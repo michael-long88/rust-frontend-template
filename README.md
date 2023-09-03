@@ -1,5 +1,5 @@
 # rust-frontend-template
-This repository is designed to be used in conjuction with [rust-fullstack-template](git@github.com:michael-long88/rust-fullstack-template.git). It is built using the `npm init vue@latest` project creation wizard with 
+This repository is designed to be used in conjuction with [rust-fullstack-template](https://github.com/michael-long88/rust-fullstack-template). It is built using the `npm init vue@latest` project creation wizard with 
 - Vue
 - TypeScript
 - Pinia
